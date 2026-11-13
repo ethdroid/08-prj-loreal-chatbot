@@ -1,5 +1,5 @@
 /* Paste your Cloudflare Worker URL here after you deploy it */
-const WORKER_URL = "https://loreal-chatbot.YOUR-SUBDOMAIN.workers.dev/";
+const WORKER_URL = "https://loreal-chatbot.ethdroid.workers.dev/";
 
 /* Get the page elements we need */
 const chatForm = document.getElementById("chatForm");
